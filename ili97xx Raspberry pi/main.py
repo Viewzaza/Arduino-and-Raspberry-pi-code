@@ -1,3 +1,6 @@
+#@Viewzaza
+# main.py for Raspberry Pi Pico with DS3231 RTC and ILI9341 Display , so this is a simple clock with temperature display 
+
 import machine
 import time
 import uos # For checking if lib exists, though not strictly needed now
